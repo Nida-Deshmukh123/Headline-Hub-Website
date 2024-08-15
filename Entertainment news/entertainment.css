@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:white;
+  
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #b6e164;
+  box-shadow: 0 2px 4px rgba(125, 7, 7, 0.1);
+  text-align: center;
+}
+  
+  h1 {
+    margin-top: 0;
+    text-align: center;
+
+  }
+  
+  #news-container {
+    text-align: left;
+  }
+  
+  .news-article {
+    margin-bottom: 20px;
+  }
+  
+  .news-article h2 {
+    margin-bottom: 5px;
+  }
+  
+  .news-article p {
+    margin: 0;
+  }
+  .head{
+    font-size: 80px;
+    font-style: italic;
+    
+    font-family: Copperplate;
+  }
